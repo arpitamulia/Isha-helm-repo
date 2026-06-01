@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  ecommerce-mini:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-06-01T12:23:35.889536519Z"
+    description: A Helm chart for Kubernetes
+    digest: 0f217d8062f74501b41b48599eb493ecfa196b88d1c13ea583d1b3a2d2359082
+    name: ecommerce-mini
+    type: application
+    urls:
+    - https://arpitamulia.github.io/helm_repo/ecommerce-mini-1.0.0.tgz
+    version: 1.0.0
+  release-pilot:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-06-01T12:23:35.891524736Z"
+    description: A Helm chart for Kubernetes
+    digest: c9ef4c59e7a717efec4f5723e582f184cb0e823e35e213829009ab4069f90d30
+    name: release-pilot
+    type: application
+    urls:
+    - https://arpitamulia.github.io/helm_repo/release-pilot-1.0.0.tgz
+    version: 1.0.0
+generated: "2026-06-01T12:23:35.888422695Z"
